@@ -1,0 +1,27 @@
+name: flutter_remix_icons
+description: Pack of Remix Icons for FLutter
+version: 1.0.0
+author:
+homepage:
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0 <2.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  recase: ^2.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+flutter:
+  fonts:
+    - family: RemixIcons
+      fonts:
+        - asset: fonts/remixicon.ttf
