@@ -1,8 +1,7 @@
 name: flutter_remix_icons
 description: Pack of Remix Icons for FLutter
 version: 1.0.0
-author:
-homepage:
+homepage: https://github.com/yiss/flutter_remix_icons
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
