@@ -82,7 +82,7 @@ packages:
     source: hosted
     version: "1.8.0"
   recase:
-    dependency: "direct main"
+    dependency: "direct dev"
     description:
       name: recase
       url: "https://pub.dartlang.org"
