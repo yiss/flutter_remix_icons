@@ -1,4 +1,4 @@
-library flutter_feather_icons;
+library flutter_remix_icons;
 
 import "package:flutter/widgets.dart";
 import "package:flutter_remix_icons/src/icon_data.dart";
